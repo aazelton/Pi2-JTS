@@ -17,6 +17,8 @@ A fully offline, speech-only clinical decision support system designed for Raspb
 - MicroSD card (>= 8GB)
 - No display needed
 
+🚧 Not for Clinical Use This is a proof-of-concept project for exploration and learning. It’s not certified or approved for clinical decision-making. Please don’t use it for actual patient care.
+
 ## Installation
 
 ### 1. Install dependencies
