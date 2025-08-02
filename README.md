@@ -52,4 +52,4 @@ This project is licensed under Creative Commons Attribution 4.0 International (C
 
 ## Author
 
-Made by Azelton@proton.me
+Made by [sammuti.com](https://sammuti.com)
