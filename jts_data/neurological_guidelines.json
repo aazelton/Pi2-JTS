@@ -1,0 +1,13 @@
+{
+  "Traumatic_Brain_Injury_PFC": {
+    "filename": "Traumatic_Brain_Injury_PFC_06_Dec_2017_ID63.pdf",
+    "category": "neurological",
+    "sections": {
+      "assessment": "Assess Glasgow Coma Scale (GCS), pupillary response, and motor function. Look for signs of increased intracranial pressure.",
+      "intervention": "Maintain cerebral perfusion pressure. Consider hyperosmolar therapy for elevated ICP. Avoid hyperventilation.",
+      "monitoring": "Monitor GCS, pupillary response, and vital signs every 15-30 minutes."
+    },
+    "full_text": "Traumatic brain injury management requires careful neurological assessment...",
+    "size_bytes": 1297380
+  }
+}

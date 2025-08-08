@@ -1,0 +1,22 @@
+{
+  "total_files": 86,
+  "total_size_bytes": 5731933,
+  "categories": [
+    "circulation",
+    "airway",
+    "trauma",
+    "surgical",
+    "assessment",
+    "emergency",
+    "medication"
+  ],
+  "files_by_category": {
+    "circulation": 29,
+    "airway": 11,
+    "trauma": 34,
+    "surgical": 7,
+    "assessment": 1,
+    "emergency": 3,
+    "medication": 1
+  }
+}
